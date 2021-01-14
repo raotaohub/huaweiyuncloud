@@ -1,6 +1,5 @@
 # huaweicloud
-> **Github_page 线上地址**[点击进入](https://raotaohub.github.io/huaweiyuncloud/#/home) https://raotaohub.github.io/huaweiyuncloud/#/home
-> A Vue.js project 这个小项目是我用Vue重构的[华为云-Classroom](https://classroom.devcloud.huaweicloud.com/home)这是目标网页
+**Github_page 线上地址**[点击进入](https://raotaohub.github.io/huaweiyuncloud/#/home) https://raotaohub.github.io/huaweiyuncloud/#/home
 
 + 在首页用bootstrap做的轮播图，尝试了一下bootstrap的响应式的页面开发。
 
